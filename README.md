@@ -14,6 +14,4 @@ DammyJoshvtr/DammyJoshvtr is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=DammyJoshvtr &theme=light)](https://git.io/streak-stats)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=DammyJoshvtr &theme=radical&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=DammyJoshvtr &theme=light_border=true)](https://git.io/streak-stats)
