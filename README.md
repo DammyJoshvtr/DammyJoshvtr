@@ -1,4 +1,4 @@
-<font size="5">Hi There👋</font>
+<font size="20">Hi There👋</font>
 
 ## About Me
 - 👋 Hi, I’m @DammyJoshvtr, Damilola Joshua. I am Software developer skilled in HTML5, CSS, JS, React, Python, Java and C.
