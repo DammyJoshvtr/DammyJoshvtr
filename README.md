@@ -15,7 +15,7 @@
 - 💞️ I’m not looking to collaborate on any projects for now👀
 
 - ## Contact Me🌍
-- 📫 How to reach me? You can reach me via <a href="damilolajoshua@gmail.com">Email</a>.
+- 📫 How to reach me? You can reach me via my Email damilolajoshua@gmail.com
 
 - ## Fun Facts🎈
 - 😄 Pronouns...He/Him 🤸🏽‍♂️
