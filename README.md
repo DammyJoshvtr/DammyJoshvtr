@@ -1,10 +1,8 @@
-<font style="
-    font-size: 20px;
-  ">Hi There👋</font>
+# Hi There 👋
 
 ## About Me🫠🦾
-- 👋 Hi, I’m @DammyJoshvtr, Damilola Joshua. I am Software developer skilled in HTML5, CSS, JS, React, Python, Java and C.
-- I Emjoy Learning how to code and learning from others as well😊
+- 👋 Hi, I’m @DammyJoshvtr, Damilola Joshua. I am Software developer; HTML5, CSS, JS, React, Python, Java and C is what I do.
+- I Enjoy Learning how to code and learning from others as well😊
 
 - ## Interests🤌
 - 👀 I’m interested in Web Development(Full Stack), Mobile App Development, Machine Learning 🥲.
