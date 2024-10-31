@@ -19,7 +19,7 @@
 - 😄 Pronouns...He/Him 🤸🏽‍♂️
 - ⚡ Fun fact about me, My first Hello, World! was with the print() statement 🥲🤲🏽
 - ⚡I love reading about new technology inventions, maybe one day I would invent one👀.
-- ⚡ I still think that Dark mode is the greatest invention ever after sliced bread😭😂
+- ⚡ I still think that Dark mode is the greatest invention ever after sliced bread🥲😂
 
 <!---
 DammyJoshvtr/DammyJoshvtr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
