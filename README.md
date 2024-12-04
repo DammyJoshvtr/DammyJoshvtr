@@ -9,7 +9,7 @@
 - It is quite a lot, but it sounds like a lot of fun and it's fascinating how quickly technology keeps advancing 😌
 
 - ## As of Now😌
-- 🌱 I’m currently learning React, trying to solidify my foundation 🥲
+- 🌱 I’m currently learning React and React-Native, trying to solidify my foundation 🥲
 - 💞️ I’m not looking to collaborate on any projects for now👀
 
 - ## Contact Me🌍
