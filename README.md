@@ -1,16 +1,15 @@
 # Hi There 👋
 
 ## About Me🫠🦾
-- 👋 Hi, I’m @DammyJoshvtr, Damilola Joshua. I am Software developer; HTML5, CSS, JS, React, Python, Java and C is what I do.
+- 👋 Hi, I’m @DammyJoshvtr, Damilola Joshua. I am Software developer, skilled in HTML5, CSS, JS, React, Python, Java and C.
 - I Enjoy Learning how to code and learning from others as well😊
 
 - ## Interests🤌
-- 👀 I’m interested in Web Development(Full Stack), Mobile App Development, Machine Learning 🥲.
+- 👀 I’m interested in Web Application Development, Mobile Application Development, Machine Learning 🥲.
 - It is quite a lot, but it sounds like a lot of fun and it's fascinating how quickly technology keeps advancing 😌
 
 - ## As of Now😌
 - 🌱 I’m currently learning React and React-Native, trying to solidify my foundation 🥲
-- 💞️ I’m not looking to collaborate on any projects for now👀
 
 - ## Contact Me🌍
 - 📫 How to reach me? You can reach me via my Email damilolajoshua2021@gmail.com
