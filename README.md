@@ -16,7 +16,7 @@
 
 - ## Fun Facts🎈
 - 😄 Pronouns...He/Him 🤸🏽‍♂️
-- ⚡ Fun fact about me, My first Hello, World! was with the print() statement 🥲🤲🏽
+- ⚡ Fun fact about me, My first Hello, World! was with the print() statement 🥲
 - ⚡I love reading about new technology inventions, maybe one day I would invent one👀.
 - ⚡ I still think that Dark mode is the greatest invention ever after sliced bread🥲😂
 
