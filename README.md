@@ -9,7 +9,7 @@
 - It is quite a lot, but it sounds like a lot of fun and it's fascinating how quickly technology keeps advancing 😌
 
 - ## As of Now😌
-- 🌱 I’m currently learning React and React-Native, trying to solidify my foundation 🥲
+- 🌱 I’m currently learning React and React-Native, trying to solidify my foundation. 🥲
 
 - ## Contact Me🌍
 - 📫 How to reach me? You can reach me via my Email damilolajoshua2021@gmail.com
