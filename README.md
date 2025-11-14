@@ -1,7 +1,7 @@
 # Hi There 👋
 
 ## About Me🫠🦾
-- 👋 Hi, I’m @DammyJoshvtr, Damilola Joshua. I am Software developer, skilled in HTML5, CSS, JS, Typescript React, and Python.
+- 👋 Hi, I’m @DammyJoshvtr, Damilola Joshua. I am Software developer, skilled in HTML5, CSS, JS, Typescript, React, and Python.
 - I Enjoy Learning how to code and learning from others as well😊.
 
 - ## Interests🤌
